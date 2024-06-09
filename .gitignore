@@ -1,0 +1,7 @@
+# data, new_data ignore
+data
+new_data
+*.pptx
+AI/100*
+AI/_pycache_
+AI/model.keras
